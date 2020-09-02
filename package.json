@@ -1,6 +1,6 @@
 {
   "name": "create-funcomponent-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a command-line tool for generating funcomponent Projects.",
   "main": "index.js",
   "scripts": {

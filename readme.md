@@ -1,10 +1,10 @@
-# create-mercedui-app
+# create-funcomponent-app
 
-This is a command-line tool for generating MercedUI Projects.
+This is a command-line tool for generating funComponent Projects.
 
 ## Create a project
 
-`npx create-mercedui-app <projectname>`
+`npx create-funcomponent-app <projectname>`
 
 after it completes cd into the project folder
 

@@ -44,8 +44,8 @@ console.log(
 
 ////CLONE THE REPOSITORY
 
-const jsclone = spawnSync(`git`, [
-  "clone",
+const jsclone = spawnSync(`npx`, [
+  "degit",
   "https://github.com/AlexMercedCoder/funComponent-template.git",
   name,
 ]);

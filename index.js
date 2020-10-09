@@ -63,6 +63,7 @@ console.log(
 - cd into project folder => ${name}
 - run command "npm install"
 - run command "npm run dev" and have fun developing
+- Join the Slack/Discord at devNursery.com, be part of the community!
 `
 );
 console.log(
